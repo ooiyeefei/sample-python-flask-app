@@ -6,4 +6,4 @@ build:
       - ls -a
       - pip3 install -r requirements.txt
 run: 
-  command: python app.py
+  command: python main.py
