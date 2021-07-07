@@ -9,3 +9,4 @@ run:
   command: python main.py
   network:
     port: 8080
+    port: 80
